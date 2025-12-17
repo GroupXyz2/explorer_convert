@@ -11,3 +11,6 @@ Ein Windows Explorer Kontext-Menü-Addon, das es ermöglicht, Dateien direkt mit
 - ⚡ **Hintergrund-Konvertierung**: FFmpeg läuft im Hintergrund
 - 🎯 **Intelligente Format-Auswahl**: Passende Formate je nach Dateityp
 
+# Note: Keep the dll file in the same directory as the script
+
+
